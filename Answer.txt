@@ -5,3 +5,9 @@ PartI - Multiple Choice
 16-20   DDDAA
 21-25   BD0C0
 
+true answer
+1-5     BADDD
+6-10    AACDA
+11-15   CECDD
+16-20   BDADB
+21-25   DDCED
